@@ -13,7 +13,7 @@ This is the starting point for becoming a contributor - improving code and docs,
 
 # Other documents
 - [Community Roles](./ROLES.md) - describes the roles individuals can assume within the DB-GPT community.
-
+- [Working Groups](./WORKING-GROUPS.md)
 
 ## Introduction
 eosphoros-ai is a community which aim is Revolutionizing Database Interactions with Private LLM Technology, And DB-GPT is a private framework for Database and Larga Language Model.
