@@ -12,6 +12,11 @@ This is the starting point for becoming a contributor - improving code and docs,
 
 
 # Other documents
+
+<p align="center">
+  <img src="./assets/sq.png" width="800px" />
+</p>
+
 - [Community Roles](./ROLES.md) - describes the roles individuals can assume within the DB-GPT community.
 - [Working Groups](./WORKING-GROUPS.md) to enhance community transparency and collaboration among community members, DB-GPT created a series of working groups.
 
@@ -29,14 +34,6 @@ DB-GPT is an open source project started by AntGroup with an active development 
 
 ## Contribute
 **Please note that the following rules are not mandatory.**
-
-### Rule about become a committer
-
-One of this rule
-- one pull request of a full-featured implemention.
-- five pull requests of feature enhancements.
-- five pull requests of any kind issues or answers.
-- two full doc enhancements or five doc answersd in community or issues.
 
 ### Rule about Code quality
 
