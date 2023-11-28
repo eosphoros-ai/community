@@ -30,7 +30,7 @@ DB-GPT is an open source project started by AntGroup with an active development 
 
 ## Community meeting
 - Saturday 8:00 PM CST(Beijing) every other week
-- TODO: Metting Notes 
+- [Metting Notes](https://github.com/eosphoros-ai/community/tree/main/metting/2023) 
 
 ## Contribute
 **Please note that the following rules are not mandatory.**
